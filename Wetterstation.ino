@@ -63,8 +63,8 @@
   * --------------------------------------------------------------------------------
   */
   // WiFi SSID / PASSWORD
-  const char* c_SSID = "CasaHardy";              // SSID WLAN
-  const char* c_PASSWD = "88745142520326954419";   // WiFi password
+  const char* c_SSID = "INSERT_YOUR_WIFI_SSID_HERE";              // SSID WLAN
+  const char* c_PASSWD = "INSERT_YOUR_WIFI_KEY_HERE";   // WiFi password
 
   // Host running php-script and mySQL database
   const char* c_HOST = "http://192.168.178.50/index.php";  
